@@ -12,7 +12,7 @@ public class CartaoEletronico {
 		this.conta = conta;
 	}
 	
-	public CartaoEletronico() {
+	public CartaoEletronico() {//não precisa de senha
 		// TODO Auto-generated constructor stub
 	}
 	
